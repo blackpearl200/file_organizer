@@ -30,7 +30,7 @@ python organizer.py
 ```
 By default, it will organize files in the current directory. You can specify a target directory as:
 ```sh
-python organizer.py /path/to/directory
+python file_organizer.py /path/to/directory
 ```
 
 ## Contributing
